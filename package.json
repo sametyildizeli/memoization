@@ -1,0 +1,16 @@
+{
+  "name": "memoization",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/b-ono/memoization.git",
+  "author": "Martin Bonetti <martin.bonetti@omicronenergy.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "sinon": "^6.1.5"
+  }
+}
